@@ -308,7 +308,7 @@ public class MainActivity extends AppCompatActivity {
             // Establecer el título
             alertDialogBuilder.setTitle("Realizado por:")
                     // Establecer mensaje de diálogo
-                    .setMessage("Anderson Bonilla  \n SIS 21A")
+                    .setMessage("Glenda Chanta \n SIS 21A")
                     .setCancelable(false)
                     .setNegativeButton("Aceptar", new DialogInterface.OnClickListener() {
                         public void onClick(DialogInterface dialog, int id) {
